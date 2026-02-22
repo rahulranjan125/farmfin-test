@@ -15,6 +15,9 @@ export default function Home() {
           Launching Q3 2025
         </p>
       </main>
+      <footer className="absolute bottom-4 text-sm text-gray-400">
+        Created for Testing
+      </footer>
     </div>
   );
 }
