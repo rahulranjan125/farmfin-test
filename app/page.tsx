@@ -11,6 +11,9 @@ export default function Home() {
         <p className="text-xl text-gray-600">
           Fast, fair loans for smallholder farmers
         </p>
+        <p className="text-lg text-gray-500 mt-4">
+          Launching Q3 2025
+        </p>
       </main>
     </div>
   );
