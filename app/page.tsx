@@ -2,7 +2,7 @@ export default function Home() {
   return (
     <div className="flex min-h-screen items-center justify-center bg-white">
       <main className="flex flex-col items-center justify-center text-center px-6">
-        <h1 className="text-6xl font-bold text-gray-900 mb-4">
+        <h1 className="text-6xl font-bold text-green-700 mb-4">
           FarmFin
         </h1>
         <h2 className="text-2xl font-semibold text-green-700 mb-8">
