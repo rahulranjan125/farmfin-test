@@ -9,7 +9,7 @@ export default function Home() {
           Farmer Lending Platform
         </h2>
         <p className="text-xl text-gray-600">
-          Coming soon
+          Fast, fair loans for smallholder farmers
         </p>
       </main>
     </div>
